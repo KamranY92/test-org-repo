@@ -1,6 +1,6 @@
 {
   "name": "@kamrany92/test-org-repo",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "test npm package for organization based repo",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -28,12 +28,12 @@
     "postversion": "git push && git push --tags"
   },
   "bugs": {
-    "url": "https://github.com/com/test-org-repo/issues"
+    "url": "https://github.com/KamranY92/test-org-repo/test-org-repo/issues"
   },
-  "homepage": "https://github.com/com/test-org-repo#readme",
+  "homepage": "https://github.com/KamranY92/test-org-repo/test-org-repo#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/com/test-org-repo.git"
+    "url": "git+https://github.com/KamranY92/test-org-repo/test-org-repo.git"
   },
   "peerDependencies": {
     "@babel/runtime": "*",

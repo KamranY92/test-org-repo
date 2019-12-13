@@ -1,1 +1,1 @@
-[release notes](https://github.com/com/test-org-repo/releases)
+[release notes](https://github.com/KamranY92/test-org-repo/test-org-repo/releases)
