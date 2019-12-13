@@ -1,9 +1,10 @@
 {
   "name": "@kamrany92/test-org-repo",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "test npm package for organization based repo",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "podname": "test-org-repo",
   "keywords": [
     "react-native"
   ],
